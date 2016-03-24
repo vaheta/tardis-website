@@ -19,13 +19,13 @@
 define('DB_NAME', 'u2187_eiaasf');
 
 /** MySQL database username */
-define('DB_USER', 'u2187_qwi2aa');
+define('DB_USER', 'uqi25ktifwxcf360');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'W3d6G9d1');
+define('DB_PASSWORD', 'xkbhwmnnbxf3f7vw');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost:');
+define('DB_HOST', 'http://izm96dhhnwr2ieg0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com/');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
